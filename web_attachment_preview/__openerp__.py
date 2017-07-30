@@ -11,8 +11,6 @@
     'description': "This modules is used Preview Attachment in new tab instead of download.",
     'author': "Hitesh Trivedi",
     'depends': ['web'],
-    'price': 10,
-    'currency': 'EUR',
     'installable': True,
     'auto_install': False
 }
